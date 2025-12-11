@@ -1,1 +1,1 @@
-# odin-recipes
+Hello, this is gonna be my first foundations project. WE gonna make some recipes, good thing I am a great cook :) 
